@@ -1,1 +1,1 @@
-
+Omega Aplikace je Windows Forms aplikace napsaná v C#. Poskytuje jednoduchý formulář pro přihlášení a registraci, který po úspěšném přihlášení přechází do rozhraní obchodu. Uživatelé mohou přidávat položky do objednávky, spravovat své objednávky a odesílat je, přičemž po odeslání objednávky obdrží potvrzovací zprávu.
